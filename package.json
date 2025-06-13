@@ -1,6 +1,6 @@
 {
   "name": "claude-auto-commit",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "AI-powered Git commit message generator using Claude Code SDK",
   "main": "src/claude-auto-commit.js",
   "bin": {
